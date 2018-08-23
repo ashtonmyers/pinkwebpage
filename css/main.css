@@ -1,0 +1,194 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	background-image: url(../img/background.jpg);
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 80%;
+	background-color: #fff;
+}
+
+header {
+	height: 700px;
+	background-image: url(../img/header.jpg);
+	background-size: 1526.380px 700px;
+	background-repeat: no-repeat;
+}
+
+nav {
+	background-color: #fff7db;
+	padding: 20px 0;
+	position: absolute;
+	width: 80%;
+	opacity: 0.88;
+}
+
+nav p {
+	display: inline-block;
+	font-family: 'Clicker Script', cursive;
+	font-size: 45px;
+	margin: 0;
+	margin-left: 30px;
+}
+
+nav span {
+	color: pink;
+}
+
+nav ul {
+	margin: 20px;
+	display: inline-block;
+	float: right;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0 20px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000;
+}
+
+.login {
+	color: #fff;
+	background-color: #ff1403;
+	padding: 9px 15px;
+	border-radius: 10px;
+}
+
+header {
+	height: 700px;
+	background-image: url(../img/header.jpg);
+	background-size: fill;
+	text-align: center;
+}
+
+header h1 {
+	display: inline-block;
+	margin-top: 500px;
+	margin-bottom: 0;
+	font-size: 70px;
+	color: #fff;
+	letter-spacing: 1.5px;
+}
+
+header h3 {
+	color: #fff;
+}
+
+.lorem {
+	text-align: center;
+	position: relative;
+}
+
+.lorem h1 {
+	font-size: 35px;
+	font-weight: 300;
+}
+
+.lorem p {
+	width: 70%;
+	margin: 0 auto;
+	color: #a3a09d;
+}
+
+.lorem i {
+	color:#fff;
+	font-size: 90px;
+	padding: 30px;
+	border-radius: 50%;
+	margin: 70px 20px 30px;
+}
+
+.lorem a {
+	text-decoration: none;
+}
+
+.fa-ticket-alt {
+	background-color: #4EB9F4;
+}
+
+.fa-camera {
+	background-color: #6FC125;
+}
+
+.fa-beer {
+	background-color: #FF5649;
+}
+
+.fa-tablet-alt {
+	background-color: #E48F23; 
+}
+
+hr {
+	border-color: #f2f2f2;
+}
+
+.pic img {
+	width: 310px;
+	height: 186px;
+	margin-top: 25px;
+	margin-left: 65px;
+}
+
+.pic .text-one {
+	display: inline-block;
+	width: 65%;
+	position: relative;
+	bottom: 50px;
+	left: 25px;
+}
+
+footer {
+	background-color: #fff7db;
+	color: #696B6A;
+	height: 275px;
+	border-radius: 10px;
+}
+
+footer .list {
+	display: inline-block;
+	width: 16%;
+	height: 100%;
+}
+
+footer .list h1 {
+	margin-left: 98px;
+	font-size: 20px;
+}
+
+footer .list ul {
+	margin-left: 60px;
+	margin-bottom: 0;
+}
+
+footer .list li {
+	list-style-type: none;
+	margin-bottom: 9px;
+}
+
+footer .list a {
+	color: #696B6A;
+}
+
+footer .icon {
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+	margin: 85px 0 0 105px;
+}
+
+footer i {
+	font-size: 40px;
+	margin: 0 11px 0 12px;
+}
+
+.text p {
+	width: 100%;
+	font-size: 14px;
+	margin-right: 3px;
+}
